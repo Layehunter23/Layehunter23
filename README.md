@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm __Papa Abdoulaye BARRY</h1>
-----------------------------------------------------------
 
-<p align="center">Computer Science Student | Full Stack Jr Dev.</p>
-<p align="center">Passionated about Creating web & Mobile Apps and Football <p>
+
+<h3 align="center">Computer Science Student | Full Stack Jr Dev.</h3>
+<h3 align="center">Passionated about Creating web & Mobile Apps and Football <h3>
 
 * I'm currently shapening my skills on React and Flutter
 
