@@ -1,5 +1,5 @@
 # Hello, Welcome to My Github Page
-# I'm __Papa Abdoulaye BARRY__
+## I'm __Papa Abdoulaye BARRY__
 ----------------------------------------------------------
 ### Computer Science Student | Full Stack Jr Dev.
 ### Passionated about Creating web & Mobile Apps and Football
