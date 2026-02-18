@@ -1,8 +1,8 @@
 # Hello, Welcome to My Github Page
 # I'm __Papa Abdoulaye BARRY__
 ----------------------------------------------------------
-## Computer Science Student | Full Stack Jr Dev.
-## Passionated about Creating web & Mobile Apps and Football
+### Computer Science Student | Full Stack Jr Dev.
+### Passionated about Creating web & Mobile Apps and Football
 
 * I'm currently shapening my skills on React and Flutter
 
