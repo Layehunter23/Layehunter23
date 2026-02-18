@@ -1,14 +1,14 @@
-<h1 align="center">Hello, I'm __Papa Abdoulaye BARRY</h1>
+<h1 align="center">Hello, I'm Papa Abdoulaye BARRY</h1>
 
 
 <h3 align="center">Computer Science Student | Full Stack Jr Dev.</h3>
 <h3 align="center">Passionated about Creating web & Mobile Apps and Football <h3>
 
-* I'm currently shapening my skills on React and Flutter
+* I'm currently sharpening my skills on React and Flutter
 
-* I'm also learning NestJS and NextJS
+* 🌱 I'm also learning NestJS and NextJS
 
-* Personal e-mail : papa.a.barry@gmail.com
+* 📫Personal e-mail : papa.a.barry@gmail.com
 
 ## Languages and tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
