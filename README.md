@@ -1,6 +1,7 @@
-# Hello, Welcome to My Github Page
+<h1 align="center">Hello, Welcome to My Github Page</h1>
 # I'm __Papa Abdoulaye BARRY__
 ----------------------------------------------------------
+
 ### Computer Science Student | Full Stack Jr Dev.
 ### Passionated about Creating web & Mobile Apps and Football
 
