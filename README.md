@@ -1,9 +1,8 @@
-<h1 align="center">Hello, Welcome to My Github Page</h1>
-# I'm __Papa Abdoulaye BARRY__
+<h1 align="center">Hello, I'm __Papa Abdoulaye BARRY</h1>
 ----------------------------------------------------------
 
-### Computer Science Student | Full Stack Jr Dev.
-### Passionated about Creating web & Mobile Apps and Football
+<p align="center">Computer Science Student | Full Stack Jr Dev.</p>
+<p align="center">Passionated about Creating web & Mobile Apps and Football <p>
 
 * I'm currently shapening my skills on React and Flutter
 
