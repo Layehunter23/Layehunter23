@@ -8,7 +8,7 @@
 
 * 🌱 I'm also learning NestJS and NextJS
 
-* 📫Personal e-mail : papa.a.barry@gmail.com
+* 📫Personal e-mail : papabarry.pro@gmail.com
 
 * My Portfolio : https://portfolio-pab.vercel.app/
 
