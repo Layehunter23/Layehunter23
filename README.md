@@ -6,7 +6,7 @@
 
 * I'm currently sharpening my skills on React and Flutter
 
-* 🌱 I'm also learning NestJS and NextJS
+* 🌱 I'm also learning React Native
 
 * 📫Personal e-mail : papabarry.pro@gmail.com
 
