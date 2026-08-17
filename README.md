@@ -1,12 +1,10 @@
 <h1 align="center">Hello, I'm Papa Abdoulaye BARRY</h1>
 
 
-<h3 align="center">Computer Science Student | Full Stack Jr Dev.</h3>
+<h3 align="center">Computer Science Student | Full Stack Dev.</h3>
 <h3 align="center">Passionated about Creating web & Mobile Apps and Football <h3>
 
-* I'm currently sharpening my skills on React and Flutter
-
-* 🌱 I'm also learning React Native
+* I'm currently sharpening my skills for the stack MERN
 
 * 📫Personal e-mail : papabarry.pro@gmail.com
 
